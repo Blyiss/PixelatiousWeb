@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="018a7ee6-e563-428d-bca6-104d86d1c6da" name="Pixelatious" url="http://pixelatious.uk">
+        <fileTransfer host="ftp.Smarterasp.net" port="21" rootFolder="/Pixelatious" password="dfecdfc5dfd9dfdedfcfdfd8dfd9df9bdf98df9adf9adf93" username="jitarrias-001">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
