@@ -3,7 +3,7 @@
 <body>
 <form method="post" action="">
     <input type="email" value="admin@admin.com" name="email">
-    <input type="password" value="password" name="password">
+    <input type="password" value="fosters" name="password">
     <input type="submit" name="submit" />
 </form>
 
@@ -21,13 +21,13 @@ if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
 
-$sql = "SELECT * FROM tbl_users where user_id = 17 ";
+$sql = "SELECT * FROM tbl_users where user_id = 1 ";
 $result = mysqli_query($conn, $sql);
 
 if (mysqli_num_rows($result) > 0) {
     // output data of each row
     while($row = mysqli_fetch_assoc($result)) {
-//        echo "Userid: " . $row["user_id"]. " - Email: " . $row["email"]. " " . $row["password"]. "<br>";
+//        echo "Userid: " . $row["user_id"]. " - Email: " . $row["user_email"]. " " . $row["user_password"]. "<br>";
         $userpassword = $row["password"];
     }
 } else {

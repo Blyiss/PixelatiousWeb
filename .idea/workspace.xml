@@ -21,23 +21,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
               <folding>
-                <marker date="1473556135211" expanded="true" signature="552:594" ph="SELECT * FRO... tbl_users" />
+                <marker date="1474534687740" expanded="true" signature="551:592" ph="SELECT * FRO... tbl_users" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loginbcrypt.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="loginbcrypt.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loginbcrypt.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1836">
+              <caret line="113" column="7" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -66,11 +76,11 @@
       <file leaf-file-name="logmein.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logmein.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
               <folding>
-                <marker date="1469737556204" expanded="true" signature="2063:2154" ph="SELECT * FRO... tbl_staff" />
-                <marker date="1469737556204" expanded="true" signature="2728:2977" ph="..." />
+                <marker date="1473963843244" expanded="true" signature="2063:2154" ph="SELECT * FRO... tbl_staff" />
+                <marker date="1473963843244" expanded="true" signature="2728:2977" ph="..." />
               </folding>
             </state>
           </provider>
@@ -91,18 +101,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <marker date="1469798384336" expanded="true" signature="879:970" ph="SELECT * FRO... ${$tbl_name}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logout.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logout.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,18 +112,6 @@
             <state relative-caret-position="68">
               <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inc/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding>
-                <marker date="1457591584329" expanded="true" signature="107:229" ph="SELECT U.*, tbl_users" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -160,9 +146,9 @@
         <option value="$PROJECT_DIR$/logout.php" />
         <option value="$PROJECT_DIR$/login_success.php" />
         <option value="$PROJECT_DIR$/checklogin.php" />
-        <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/info.php" />
         <option value="$PROJECT_DIR$/loginbcrypt.php" />
+        <option value="$PROJECT_DIR$/login.php" />
       </list>
     </option>
   </component>
@@ -179,8 +165,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="width" value="1612" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -207,28 +193,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pixelatious" />
+              <option name="myItemId" value="PixelatiousWeb" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pixelatious" />
+              <option name="myItemId" value="PixelatiousWeb" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pixelatious" />
+              <option name="myItemId" value="PixelatiousWeb" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,6 +222,8 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -318,17 +306,19 @@
       <workItem from="1473675132625" duration="665000" />
       <workItem from="1473697093436" duration="801000" />
       <workItem from="1473752003842" duration="1745000" />
+      <workItem from="1474459991809" duration="1280000" />
+      <workItem from="1474531768302" duration="3055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37221000" />
+    <option name="totallyTimeSpent" value="41556000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1612" height="912" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18958333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18922305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -369,8 +359,8 @@
         <state relative-caret-position="833">
           <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
-            <marker date="1469737556204" expanded="true" signature="2063:2154" ph="SELECT * FRO... tbl_staff" />
-            <marker date="1469737556204" expanded="true" signature="2728:2977" ph="..." />
+            <marker date="1473963843244" expanded="true" signature="2063:2154" ph="SELECT * FRO... tbl_staff" />
+            <marker date="1473963843244" expanded="true" signature="2728:2977" ph="..." />
           </folding>
         </state>
       </provider>
@@ -387,9 +377,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-          <folding>
-            <marker date="1469798384336" expanded="true" signature="879:970" ph="SELECT * FRO... ${$tbl_name}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -413,11 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1457592796124" expanded="true" signature="1006:1092" ph="SELECT * FRO... tbl_users" />
-            <marker date="1457592796124" expanded="true" signature="2380:2432" ph="SELECT * FRO... tbl_users" />
-            <marker date="1457592796124" expanded="true" signature="2768:2890" ph="INSERT INTO tbl_users... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -432,9 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <marker date="1457591584329" expanded="true" signature="107:229" ph="SELECT U.*, tbl_users" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -471,7 +451,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1473556135211" expanded="true" signature="552:594" ph="SELECT * FRO... tbl_users" />
+            <marker date="1474534687740" expanded="true" signature="551:592" ph="SELECT * FRO... tbl_users" />
           </folding>
         </state>
       </provider>
@@ -597,24 +577,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/starter-template.css" />
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/ie10-viewport-bug-workaround.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="113" column="7" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -650,11 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1457592796124" expanded="true" signature="1006:1092" ph="SELECT * FRO... tbl_users" />
-            <marker date="1457592796124" expanded="true" signature="2380:2432" ph="SELECT * FRO... tbl_users" />
-            <marker date="1457592796124" expanded="true" signature="2768:2890" ph="INSERT INTO tbl_users... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -669,9 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <marker date="1457591584329" expanded="true" signature="107:229" ph="SELECT U.*, tbl_users" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -692,29 +650,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logmein.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding>
-            <marker date="1469737556204" expanded="true" signature="2063:2154" ph="SELECT * FRO... tbl_staff" />
-            <marker date="1469737556204" expanded="true" signature="2728:2977" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login_success.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main_login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -731,19 +670,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <marker date="1469798384336" expanded="true" signature="879:970" ph="SELECT * FRO... ${$tbl_name}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.php">
+    <entry file="file://$PROJECT_DIR$/index2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <marker date="1473556135211" expanded="true" signature="552:594" ph="SELECT * FRO... tbl_users" />
-          </folding>
+        <state relative-caret-position="1836">
+          <caret line="113" column="7" selection-start-line="113" selection-start-column="7" selection-end-line="113" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="75" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -755,8 +698,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logmein.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <marker date="1473963843244" expanded="true" signature="2063:2154" ph="SELECT * FRO... tbl_staff" />
+            <marker date="1473963843244" expanded="true" signature="2728:2977" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <marker date="1474534687740" expanded="true" signature="551:592" ph="SELECT * FRO... tbl_users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAsByM7pBBzMmyyn8wu+76i+k1Gu1/sYxkbVnH+FIWUKcIiVUYG5CSlwEchbhA1yKWlox8DxZdHvQYRIR46Xi1mzA8LqQt1namScBCnw83pMvjtt0OnKfFM2yjy0ZoBqoepUrsDHahk2OQzZHqmLLvzlId+26sN7tamHGRvoegvPPboy+PaDIh1Rd0YuAJAAFcAZzHhKj0Zw3lG6n7Bu52nrhbMb5Mulv0BX6v2BVJ7dxgUZZTc0rSxd5Hjt9WjuQmbw==</data>
+    <data>AAAAsG43cEU0Qj+QiEjS90jTlGAqrF2kxs8kRwm4EgJxVnN14CkuDWO7sBMLojbgAIJYXckMOG3sDk+1MAwUxf1ieDNOY6hbL8+m6sNro6+kj3wd6Je9rNBCr+FyM0Rv0/tZs6shXRPsvk7YHWFlQfT4WgX6e+YE5Hqf8aF+MlnNKQTo31LCbpYOJCr4rBR/34ivr4kXFJLHyZy2D6KxRQdMAKgSZoV2etKSUTPcT1K+tlTECX1kk6vul7BaI4IE4bGGoQ==</data>
   </component>
 </project>
